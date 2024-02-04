@@ -1,1 +1,1 @@
-# Logo-Creator
+Mission was to build a command line application that takes user details and generates a logo on the spot. This was done by creating js files to generate certain functions neccesary to reach acceptance criteria. Package.json was used to link neccesary dependencies and links everything combined created succesfull command line application
